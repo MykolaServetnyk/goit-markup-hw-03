@@ -201,6 +201,10 @@ p {
     margin: 0;
 }
 
+img {
+    display: block;
+}
+
 .filter {
 
     margin-bottom: 56px;
@@ -247,6 +251,7 @@ p {
     color: #FFFFFF;
 }
 
+
 .advantages-conteiner {
 
     display: flex;
@@ -275,6 +280,11 @@ p {
     line-height: 1.71;
     letter-spacing: 0.03em;
 
+}
+
+.ocuaption-sect {
+
+    padding-top: 0;
 }
 
 .ocupation {
@@ -349,7 +359,7 @@ p {
 }
 
 .spec-position {
-
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
